@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple-dijkstra-console-demo", "multiple-dijkstra-console-demo\multiple-dijkstra-console-demo.csproj", "{AE7A7388-4F0E-4EFA-A0E2-6F8332A1EC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple-dijkstra-console-demo.test", "multiple-dijkstra-console-demo.test\multiple-dijkstra-console-demo.test.csproj", "{1B9D0A6B-6944-43C9-AA00-F7977F38C62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7A7388-4F0E-4EFA-A0E2-6F8332A1EC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7A7388-4F0E-4EFA-A0E2-6F8332A1EC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7A7388-4F0E-4EFA-A0E2-6F8332A1EC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7A7388-4F0E-4EFA-A0E2-6F8332A1EC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9D0A6B-6944-43C9-AA00-F7977F38C62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9D0A6B-6944-43C9-AA00-F7977F38C62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9D0A6B-6944-43C9-AA00-F7977F38C62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9D0A6B-6944-43C9-AA00-F7977F38C62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
